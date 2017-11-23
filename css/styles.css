@@ -1,0 +1,59 @@
+body{
+	background-color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#name{
+	font-size: 24px;
+	text-align: right;
+	color:#4b7447;
+}
+
+
+#pizzaGuy{
+	width: 100%;
+}
+
+h2{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%);
+    color: black;
+    font-size: 24px;
+    background-color: rgba(255,255,255,.7);
+    padding:40px;
+}
+
+#topMenu{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.guide{
+	display: inline;
+	padding: 30px;
+}
+
+#today{
+	text-align: center;
+}
+
+#menu{
+	text-align: center;
+}
+
+#visit{
+	text-align: center;
+}
+
+#addy{
+	list-style-type: none;
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	font-size: 14px;
+}
